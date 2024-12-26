@@ -1,0 +1,16 @@
+{
+  "name": "levict",
+  "version": "0.0.1",
+  "description": "A modern lightweight JavaScript UI framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "levict",
+    "JavaScript framework",
+    "UI Component"
+  ],
+  "author": "Sugar Zhu",
+  "license": "ISC"
+}

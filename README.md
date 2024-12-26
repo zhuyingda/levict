@@ -1,2 +1,2 @@
 # levict
-A modern lightweight JavaScript UI framework
+A modern lightweight JavaScript UI framework.
